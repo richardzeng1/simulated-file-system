@@ -22,6 +22,7 @@ CSC209. This assignment was to create a simulated command line interface file sy
 7. Ensure all data has been written and close the file system
 
 ![](https://github.com/richardzeng1/simulated-file-system/blob/master/images/Screen%20Shot%202018-01-02%20at%202.13.56%20AM.png)
+
 Image from the University of Toronto
 
 We represent the size of the file system with a freelist which is a linked list. When we add a file, the size of the file
