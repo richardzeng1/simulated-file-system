@@ -22,6 +22,7 @@ CSC209. This assignment was to create a simulated command line interface file sy
 7. Ensure all data has been written and close the file system
 
 ![](https://github.com/richardzeng1/simulated-file-system/blob/master/images/Screen%20Shot%202018-01-02%20at%202.13.56%20AM.png)
+Image from the University of Toronto
 
 We represent the size of the file system with a freelist which is a linked list. When we add a file, the size of the file
 is removed from the freelist and when a file is deleted, the size of the deleted file is added to the freelist. We have two algorithms for determining a free slot to store the file.
@@ -32,7 +33,7 @@ location.
 The algorithm is very extensive. Please see http://www.teach.cs.toronto.edu/~csc209h/fall/assignments/a2.html for more detail regarding the algorithm and project.
                  
 Final Mark: 96.88%. <br />
-Note: Some code was starter code written my the staff of the University of Toronto.
+Note: Some code was starter code written by the staff of the University of Toronto.
 
 ### **Setup**
 1. Clone this repo
