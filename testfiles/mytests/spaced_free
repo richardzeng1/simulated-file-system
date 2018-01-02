@@ -1,0 +1,15 @@
+i spaced
+c file1 4 aaaa
+c file2 8 bbbbbbbb
+c file3 8 cccccccc
+c file4 4 eeee
+c file5 8 ffffffff
+c file6 4 gggg
+c file7 6 kkkkkk
+d file2
+d file4
+d file6
+c file8 4 8888
+s
+p
+x

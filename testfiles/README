@@ -1,0 +1,13 @@
+This directory contains some example input files for the ffsim and bfsim 
+programs.  The corresponding .out files are the result of running ffsim
+on the input file.
+
+test_diagram - the transaction file used for the diagrams in the handout
+test_sample - a longer transaction file that leads to a slightly more 
+	interesting freelist
+test_open - a transaction file that opens an existing file system. Note that
+	this will fail if myfs is not a valid file system file.
+
+
+NOTE: When you run the starter code on these transaction files, you will NOT
+get the same output.
